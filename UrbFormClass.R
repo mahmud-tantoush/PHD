@@ -7,3 +7,4 @@ library(ggplot2)
 # How to classify ?
 # using ML with POI data as tags
 # AA
+# use SVM?
